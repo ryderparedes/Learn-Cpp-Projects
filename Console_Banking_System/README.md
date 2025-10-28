@@ -4,4 +4,4 @@ A rudimentary banking system that writes to the console. Created to practice var
 ## Features
 - Deposit Balance
 - Withdraw Balance
-- Show Balance.
+- Show Balance
