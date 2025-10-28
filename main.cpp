@@ -1,6 +1,0 @@
-#include "bank.h"
-
-int main()
-{
-    mainMenu();
-}
