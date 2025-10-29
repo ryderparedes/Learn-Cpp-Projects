@@ -6,4 +6,4 @@ A rudimentary calculator that writes to the console. Created to learn templates 
 - Subtraction
 - Multiplication
 - Division
-- - Divide By Zero Error Handling
+  - Divide By Zero Error Handling
