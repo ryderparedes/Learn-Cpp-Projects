@@ -14,7 +14,6 @@ void pointerSwap(std::string* x, std::string* y)
 {
     std::string xString { *x };
     std::string yString { *y };
-
     if (xString[0] < yString[0]) {
         *x = yString;
         *y = xString;
