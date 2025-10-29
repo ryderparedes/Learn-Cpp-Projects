@@ -5,4 +5,5 @@ A rudimentary calculator that writes to the console. Created to learn templates 
 - Addition
 - Subtraction
 - Multiplication
-- Division & Divide by Zero Error Handling
+- Division
+- - Divide By Zero Error Handling
